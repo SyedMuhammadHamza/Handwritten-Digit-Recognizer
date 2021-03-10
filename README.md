@@ -10,4 +10,4 @@ Neural Network from scratch in Python to recognize handwritten digit achieved  9
 * Python flask for HTTP server
 * HTML/CSS/Javascript for UI
 
-©SyedMuhammadHamza Licensed under ![MIT License] (https://github.com/SyedMuhammadHamza/Handwritten-Digit-Recognizer/blob/main/LICENSE)
+©SyedMuhammadHamza Licensed under [MIT License] (https://github.com/SyedMuhammadHamza/Handwritten-Digit-Recognizer/blob/main/LICENSE)
