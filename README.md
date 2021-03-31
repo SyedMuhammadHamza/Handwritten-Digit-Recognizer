@@ -26,8 +26,8 @@ CNN(Convolutional neural network) using Keras
 <img src="pictures/CNN.png"/>
 
 # Model Performance
-DNN:  98.45% test accuracy
-CNN:  99.25% test accuracy
+* DNN:  98.45% test accuracy
+* CNN:  99.25% test accuracy
 
 
 # Technologies 
