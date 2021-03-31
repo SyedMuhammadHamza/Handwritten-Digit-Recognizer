@@ -29,6 +29,8 @@ CNN(Convolutional neural network) using Keras
 * DNN:  98.45% test accuracy
 * CNN:  99.25% test accuracy
 
+# Productionization
+In this step, I built a flask API endpoint that was hosted on a local webserver
 
 # Technologies 
 * Python
