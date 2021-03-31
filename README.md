@@ -3,7 +3,7 @@
 Neural Network from scratch in Python to recognize handwritten digit achieved  98.45% test accuracy and using Keras CNN(Convolutional neural network) achieved  99.25% test accuracy deployed model to production
 
 # Dataset
-<img src="pictures/Dataset.jpg "/>
+<img src="pictures/Dataset.jpg"/>
 
 # Deep Neural network (DNN)
 
@@ -17,7 +17,7 @@ Implementation of DNN includes code for Feedforward and Regularized Cross entrop
 
 ## Backpropagation
 Implementation of DNN includes code for Backpropagation
-<img src="pictures/BACKPROPAGATION"/>
+<img src="pictures/BACKPROPAGATION.jpg"/>
 <img src="pictures/BACKPROPAGATION STEPS.jpg"/>
 
 
