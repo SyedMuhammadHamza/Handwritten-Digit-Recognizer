@@ -6,6 +6,7 @@ Neural Network from scratch in Python to recognize handwritten digit achieved  9
 <img src="pictures/DATASET.jpg"/>
 
 # Deep Neural network (DNN)
+Neural Network Implementation from scratch using Python
 
 ## Model representation
 Implemented Neural network has 3 layers an input layer,a hidden layer and an output layer.
