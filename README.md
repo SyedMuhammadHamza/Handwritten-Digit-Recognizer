@@ -3,7 +3,7 @@
 Neural Network from scratch in Python to recognize handwritten digit achieved  98.45% test accuracy and using Keras CNN(Convolutional neural network) achieved  99.25% test accuracy deployed model to production
 
 # Dataset
-<img src="pictures/Dataset.jpg"/>
+<img src="pictures/DATASET.jpg"/>
 
 # Deep Neural network (DNN)
 
