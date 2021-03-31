@@ -29,6 +29,10 @@ CNN(Convolutional neural network) using Keras
 * DNN:  98.45% test accuracy
 * CNN:  99.25% test accuracy
 
+The CNN model outperformed the DNN on the test and validation sets, hence I used the CNN model for Productionization 
+
+
+
 # Productionization
 In this step, I built a flask API endpoint that was hosted on a local webserver
 
