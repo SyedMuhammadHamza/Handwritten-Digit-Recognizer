@@ -21,6 +21,7 @@ Implementation of DNN includes code for Backpropagation
 <img src="pictures/BACKPROPAGATION STEPS.jpg"/>
 
 # Convolutional neural network
+CNN(Convolutional neural network) using Keras
 <img src="pictures/CNN.png"/>
 
 
