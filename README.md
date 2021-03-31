@@ -20,6 +20,9 @@ Implementation of DNN includes code for Backpropagation
 <img src="pictures/BACKPROPAGATION.jpg"/>
 <img src="pictures/BACKPROPAGATION STEPS.jpg"/>
 
+# Convolutional neural network
+<img src="pictures/CNN.png"/>
+
 
 
 # Technologies 
